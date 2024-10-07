@@ -1,8 +1,6 @@
-import Footer from "./modulos/footer";
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-import { Navbar } from 'react-bootstrap';
+import Footer from './modulos/footer';
+import {Container,Row, Col} from 'react-bootstrap/Container';
+import  Navbar from './modulos/navbar';
 
 export default function index() {
     return<div>
