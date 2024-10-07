@@ -1,6 +1,6 @@
 import {Container, Nav, Navbar, NavDropdown}  from 'react-bootstrap/Container';
 
-export default function Navbar() {
+export default function Menu() {
   return (
     <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
